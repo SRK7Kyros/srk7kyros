@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a desktop app using [Tauri](https://github.com/tauri-apps/tauri) and [SolidJS](https://github.com/solidjs/solid)!
+- 🌱 I’m currently learning Rust, TypeScript (JavaScript in the process), HTML & CSS, Python
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: Mainly Discord: users.kyros
+- 💬 Ask me about whatever :)
+
+
+
 
 <!--
 **SRK7Kyros/srk7kyros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
